@@ -4,10 +4,11 @@
   Interaktive Darstellung der trigonometrischen Funktionen
   Sinus und Cosinus in Abhängigkeit vom Winkel im Bogenmaß
 
-  TypeScript-Version 2017
+  TypeScript-Version 2017 
  */
 
 // Radius des Kreises
+let oiansdv: string ="onsav";
 let radius: number = 200;
 let canvas: HTMLCanvasElement = document.getElementsByTagName("canvas")[0];
 let crc2: CanvasRenderingContext2D = canvas.getContext("2d");
