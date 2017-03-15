@@ -7,7 +7,6 @@
   TypeScript-Version 2017
  */
 // Radius des Kreises
-let oiansdv = "onsav";
 let radius = 200;
 let canvas = document.getElementsByTagName("canvas")[0];
 let crc2 = canvas.getContext("2d");
